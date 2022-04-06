@@ -1,10 +1,59 @@
 :root{
-  background-color: #F7AC1B;
+  background-color:#DE640B;
 }
 html{
-background-image:;
+background-image: url('https://live.staticflickr.com/8350/8250445446_7033623b32_o.jpg');
 background-repeat: no-repeat;
 background-attachment: fixed;
 background-position: center;
 background-size: 100% 95%;
+}
+
+h1,
+h2
+{
+padding-bottom : 10px; //increase value if needed
+}
+
+h1,
+h2 {
+  color: #AF13FA;
+  font-family: 'Rubik Wet Paint', cursive;
+}
+
+header
+{
+  font-size: 25px;
+}
+
+img
+{
+padding-bottom : 10px; //increase value if needed
+}
+
+h3
+{
+color: #AF13FA;
+font-family: 'Rubik Wet Paint', cursive;
+}
+h3
+{
+  font-size: 20px;
+}
+
+pre,
+ul
+{
+  color: #F5C501;
+  font-family: 'Roboto', sans-serif;
+}
+
+p
+{
+padding-bottom : 10px; //increase value if needed
+}
+p
+{
+  color:#F5C501;
+  font-family: 'Source Sans Pro', sans-serif;
 }
