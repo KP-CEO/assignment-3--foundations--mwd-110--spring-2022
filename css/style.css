@@ -36,12 +36,14 @@ h3 {
 
 h3 {
   font-size: 20px;
+  padding-bottom: 10px; //increase value if needed
 }
 
 pre,
 ul {
   color: #F5C501;
   font-family: 'Roboto', sans-serif;
+  padding-bottom: 10px; //increase value if needed
 }
 
 p {
