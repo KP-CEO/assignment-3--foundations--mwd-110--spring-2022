@@ -12,7 +12,7 @@ html {
 
 h1,
 h2 {
-  padding-bottom: 10px; //increase value if needed
+  padding-bottom: 10px; 
 }
 
 h1,
@@ -26,7 +26,7 @@ header {
 }
 
 img {
-  padding-bottom: 10px; //increase value if needed
+  padding-bottom: 10px;
 }
 
 h3 {
@@ -36,21 +36,24 @@ h3 {
 
 h3 {
   font-size: 20px;
-  padding-bottom: 10px; //increase value if needed
+  padding-bottom: 10px;
 }
 
 pre,
 ul {
   color: #F5C501;
   font-family: 'Roboto', sans-serif;
-  padding-bottom: 10px; //increase value if needed
+  padding-bottom: 10px;
 }
 
 p {
-  padding-bottom: 10px; //increase value if needed
+  padding-bottom: 10px;
 }
 
 p {
   color: #F5C501;
   font-family: 'Source Sans Pro', sans-serif;
+}
+p {
+  font-size: 20px;
 }
